@@ -2,7 +2,7 @@
   <v-content>
     <v-container class="text-center">
           <video controls>
-            <source src="../assets/video-zappa.mp4" type="video/mp4">
+            
           </video>
     </v-container>
   </v-content>
